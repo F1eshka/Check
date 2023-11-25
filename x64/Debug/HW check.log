@@ -1,0 +1,8 @@
+﻿  HW check.cpp
+C:\Users\Rog\source\repos\HW check\HW check.cpp(112,8): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Rog\source\repos\HW check\HW check.cpp(120,25): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Rog\source\repos\HW check\HW check.cpp(148,9): warning C4477: "printf": в строке форматирования "%04d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "const __int64"
+C:\Users\Rog\source\repos\HW check\HW check.cpp(148,9): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\Rog\source\repos\HW check\HW check.cpp(148,9): message : рекомендуется использовать "%Id" в строке форматирования
+C:\Users\Rog\source\repos\HW check\HW check.cpp(148,9): message : рекомендуется использовать "%I64d" в строке форматирования
+  HW check.vcxproj -> C:\Users\Rog\source\repos\HW check\x64\Debug\HW check.exe
